@@ -1,4 +1,4 @@
-Usage
+# Usage
 
 1. Training
 python3 scene_recog_cnn.py --phase train --model_dir trained_cnn.pth
